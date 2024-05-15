@@ -1,3 +1,5 @@
+# This repo will no longer be updated, see official CNCF repos as this work was merged there.
+
 # Landscape2 sites
 
 This repository contains the settings and deployment workflows of some foundations' landscapes.
